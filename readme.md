@@ -47,3 +47,23 @@ Esta interacción es bastante entretenido y no demasiado largo, por lo que si te
 *Enlazo un pequeño video donde podrás visualizar el juego explicándote a modo de imagen como es.*
 
 [![video](https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk)](https://www.youtube.com/watch?v=TJRMplV9SpA)
+
+## 2º Ensayo
+#  This Exquisite Fores  
+
+Casi un siglo después de su nacimiento, la técnica del cadáver exquisito del movimiento surrealista inspira un proyecto de animación colaborativa impulsado por Google y la Tate Modern de Londres: 
+
+This Exquisite Forest. La iniciativa propone a los internautas y los visitantes del museo plantar los árboles de este bosque exquisito con sus propias creaciones animadas con una herramienta de dibujo específica para este experimento. Cada colaborador artístico contribuye a dar forma a una sola obra.
+
+![bosque](https://fromagosto.files.wordpress.com/2012/07/forest1_0.jpg)
+
+Es un proyecto de creación de un bosque de árboles donde cada una de esas hojas es una aportación de una persona. 
+Su hibridación es incitar a los artistas a que todo el mundo pueda participar en este trabajo colaborativo de animación en la que cualquier persona pueda comenzar, continuar y divergir una historia.
+
+Chris Milk y Aaron Koblin comienzan hablar sobre esta idea .¿Qué piensan ustedes acerca de hacer una versión controlada para la animación
+
+**¿Qué piensan ustedes acerca de hacer una versión controlada para la animación?**
+
+
+
+
