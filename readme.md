@@ -64,6 +64,23 @@ Chris Milk y Aaron Koblin comienzan hablar sobre esta idea .¿Qué piensan usted
 
 **¿Qué piensan ustedes acerca de hacer una versión controlada para la animación?**
 
+Todo comenzaron con una gran idea y trabajaron hacia atrás para resolver los problemas a medida que avanzaban. Este proyecto se llama este bosque exquisito y proviene de la inspiración del cadáver exquisito, esta idea se les ocurrió una e specie de creación colaborativa.
+El equipo está interesado en descubrir formas y usar la tecnología para construir cosas de una manera diferente que tal vez no hayan visto antes o contar historias de diferente manera que nos las habían contado antes. 
 
+Han construido una plataforma de animación única con la que creo que la gente está entusiasmada e interesada de jugar y lo han hecho utilizando tecnologías que al navegado de Chrome pone a disposición de las personas.
+
+Cuando ingresan por primera vez en el sitio web, ve el bosque y puede elegir cualquier árbol individual e inmediatamente verá la animación que comenzó en ese árbol, así como las instrucciones y pautas proporcionadas por el artista.
+
+Una vez analizado la página podrá seguir y pasar sobre cualquier segmento del árbol, ver la animación que fue aportada por varias personas diferentes y si hace clic en cualquiera de las hojas, podrá ver el camino completo, la historia que ha sido creada por todos.
+
+Están iniciando de la Tate Modern, es una oportunidad porque están creando estas pequeñas animaciones y la gente colabora con ellos para poner su trabajo.
+
+Usaban funciones de Chrome como, Canvas, JavaScript y web audio. Esas tecnologías crearon una oportunidad en la que las personas podían colaborar de una manera totalmente nueva con la música.
+
+Todos los trabajos presentados se encuentran bajo licencia Creative Commons. 
+
+En la tercera planta de las instalaciones de la Tate Modern, los dibujos se crean con tabletas Wacom y se proyectan los vídeos surgidos con la participación de los artistas, una comunidad en la que confluyen profesionales y aficionados. Para ser expuestas, las creaciones deben ser aprobadas antes por la Tate Modern.
+
+![image](https://user-images.githubusercontent.com/95444749/145003038-e9246181-d680-48bb-a38b-184952897842.png)
 
 
