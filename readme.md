@@ -83,4 +83,12 @@ En la tercera planta de las instalaciones de la Tate Modern, los dibujos se crea
 
 ![image](https://user-images.githubusercontent.com/95444749/145003038-e9246181-d680-48bb-a38b-184952897842.png)
 
+Para sembrar un árbol y ver los que ya han crecido entra en la web del proyecto This Exquisite Forest. Para acceder a la plataforma con el fin de colaborar en la iniciativa se necesita tener una cuenta de Google y la última versión del navegador Chrome. 
 
+Si tenéis planeado viajar a Londres, basta con desplazarse a la Tate Modern. Visita el Museo de la Ciencia de Londres para interactuar en la exposición denominada Web Lab.
+
+![imagen](https://lh3.ggpht.com/XmRPL8WDiXAO65m0UOZ97LYh7CbJmhOVVAbduLkjJazP1mbKZcH2EbWNeB9jABTL3BAU26E2bDpr39x5YB9vzxeWptLWvvokSPUs)
+
+*Enlazo un pequeño video donde podrás visualizar mejor de qué trata este proyecto.*
+
+[![video](https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk)](https://www.youtube.com/watch?v=nnhJ1841K-8&t=9s)
