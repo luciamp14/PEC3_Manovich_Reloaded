@@ -44,3 +44,6 @@ Esta interacción es bastante entretenido y no demasiado largo, por lo que si te
 
 ![juego](https://i.blogs.es/37a511/juego-carmen-sandiego/450_1000.jpg)
 
+*Enlazo un pequeño video donde podrás visualizar el juego explicándote a modo de imagen como es.*
+
+[![video](https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk)](https://www.youtube.com/watch?v=TJRMplV9SpA)
